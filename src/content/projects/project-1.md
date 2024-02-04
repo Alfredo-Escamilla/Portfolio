@@ -1,8 +1,8 @@
 ---
 inProgress: false
-title: Project title
-description: Project description
+title: Lista de tareas
+description: Aplicación ToDo List
 img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+link: https://github.com/Alfredo-Escamilla/Lista-de-tareas
+tags: ['JSON', 'FakeApi', 'Javascript']
 ---
