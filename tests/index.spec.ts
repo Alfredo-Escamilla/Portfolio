@@ -22,7 +22,7 @@ test.describe('ui test', () => {
 
 	test('website is shown correctly', async ({ page }) => {
 		await expect(page).toHaveURL('http://localhost:3000/');
-		await expect(page).toHaveTitle('A Very Descriptive Title');
+		await expect(page).toHaveTitle('Mi portfolio. Alfredo Escamilla');
 		const metaDescription = page.locator("meta[name='description']");
 		await expect(metaDescription).toHaveAttribute(
 			'content',
