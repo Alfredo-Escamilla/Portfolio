@@ -1,5 +1,5 @@
 <h1 align="center">Hola, mi nombre es Alfredo</h1>
-<h3 align="center">Soy un estudiante de Desarrollo Web Full Stack en Factoría F5, intento mejorar cada día, aprender cosas nuevas y afrontar los desafíos como parte del aprendizaje. </h3>
+<h3 align="center">Soy desarrollador Web Full Stack. Intento mejorar cada día, aprender cosas nuevas y afrontar los desafíos como parte del aprendizaje. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredo-escamilla&label=Profile%20views&color=0e75b6&style=flat" alt="alfredo-escamilla" /> </p>
 
